@@ -1,0 +1,52 @@
+----------------------SETUP PROCESS-----------------------------
+Before Method Ran sucessfully
+Chrome Driver is setup
+---------------------------------------------------------
+----------------------STEP 1-----------------------------
+Test Data excel is setup and can be read
+---------------------------------------------------------
+----------------------STEP 2-----------------------------
+Test Data Excel file is not empty
+---------------------------------------------------------
+----------------------STEP 3-----------------------------
+Registration Details setup in Test data excel is
+Actual Reg Num  0 -> GF65 GNX
+Actual Reg Num  1 -> X322 VUB
+Actual Reg Num  2 -> DY18 OBW
+Actual Reg Num  3 -> B6 AAL
+---------------------------------------------------------
+Actual Vehicle Colour  0 -> WHITE
+Actual Vehicle Colour  1 -> GREY
+Actual Vehicle Colour  2 -> WHITE
+Actual Vehicle Colour  3 -> BLACK
+---------------------------------------------------------
+----------------------STEP 4-----------------------------
+On DVLA Website
+---------------------------------------------------------
+----------------------STEP 5-----------------------------
+Clicked on Start Now button
+---------------------------------------------------------
+----------------------STEP 6 -----------------------------
+Entering Reg data GF65 GNX
+Clicking Continue Button
+Entering Reg data X322 VUB
+Clicking Continue Button
+Entering Reg data DY18 OBW
+Clicking Continue Button
+Entering Reg data B6 AAL
+Clicking Continue Button
+----------------------STEP 7 -----------------------------
+Asserted sucessfully that expected and actuals are same
+Expected Information is like below
+---------------------------------------------------------
+WHITE
+GREY
+WHITE
+BLACK
+---------------------------------------------------------
+Actual Information is like below
+WHITE
+GREY
+WHITE
+BLACK
+---------------------------------------------------------
